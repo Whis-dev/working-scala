@@ -63,3 +63,5 @@ lazy val `read-file` = project
       "com.lihaoyi" %% "ujson" % "3.0.0"
     )
   )
+
+  lazy val `first-scala` = project.settings(sharedSettings)å
